@@ -1,0 +1,68 @@
+﻿@model CarRental.Models.Order
+
+@{
+    ViewData["Title"] = "Редактирование";
+}
+
+<h1>Редактирование</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="RegistrationDate" class="control-label"></label>
+                <input asp-for="RegistrationDate" class="form-control" />
+                <span asp-validation-for="RegistrationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExpirationDate" class="control-label"></label>
+                <input asp-for="ExpirationDate" class="form-control" />
+                <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerId" class="control-label"></label>
+                <select asp-for="CustomerId" class="form-control" asp-items="ViewBag.CustomerId"></select>
+                <span asp-validation-for="CustomerId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                @if (ViewBag.Trucks.Count > 0)
+                {
+                    <div class="editor-label"><b>Грузовики</b></div>
+                    @foreach (Truck t in ViewBag.Trucks)
+                    {
+                        <input type="checkbox" name="trucks" value="@t.Id" 
+                               @(Model.Trucks.Contains(t) ? "checked=\"checked\"" : "")/>@(t.Brand.Name + " " + t.Color.Name )<br />
+                    }
+                }
+            </div>
+
+            <div class="form-group">
+                @if (ViewBag.Trailers.Count > 0)
+                {
+                    <div class="editor-label"><b>Прицепы</b></div>
+                    @foreach (Trailer t in ViewBag.Trailers)
+                    {
+                        <input type="checkbox" name="trailers" value="@t.Id" 
+                               @(Model.Trailers.Contains(t) ? "checked=\"checked\"" : "")/>@(t.LicensePlate + " " + t.Color + " " + t.Carrying )<br />
+                    }
+                }
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Сохранить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,636 @@
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.exe
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csprojAssemblyReference.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfoInputs.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfo.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.input.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.output.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorCoreGenerate.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.Manifest.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.xml
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.deps.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.dev.json
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.Views.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CopyComplete
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.genruntimeconfig.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\Documents\Projects\Freelancehunt_Andrey\Разработка структуры БД\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.exe
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.deps.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.dev.json
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csprojAssemblyReference.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfoInputs.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfo.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.input.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.output.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorCoreGenerate.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Create.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Delete.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Details.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Edit.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Index.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cs
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.Views.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CopyComplete
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.Manifest.cache
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.xml
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.dll
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.pdb
+C:\Users\Даниэль\Downloads\CarRental\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.genruntimeconfig.cache
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.exe
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.deps.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.runtimeconfig.dev.json
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\CarRental.Views.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Dot Net\CarRental\CarRental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csprojAssemblyReference.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CoreCompileInputs.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.MvcApplicationPartsAssemblyInfo.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorAssemblyInfo.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfoInputs.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.AssemblyInfo.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.input.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.TagHelpers.output.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorCoreGenerate.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Brands\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\EngineSpecifications\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\FuelInjections\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trailers\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Create.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Delete.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Details.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Edit.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\Trucks\Index.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.RazorTargetAssemblyInfo.cs
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.Views.pdb
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.csproj.CopyComplete
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.Manifest.cache
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\staticwebassets\CarRental.StaticWebAssets.xml
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.dll
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.pdb
+F:\Dot Net\CarRental\CarRental\obj\Debug\netcoreapp3.1\CarRental.genruntimeconfig.cache

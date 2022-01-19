@@ -1,0 +1,57 @@
+﻿@model CarRental.Models.Order
+
+@{
+    ViewData["Title"] = "Подробнее";
+}
+
+<h1>Подробнее</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RegistrationDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RegistrationDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExpirationDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExpirationDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.LName)
+        </dd>
+    </dl>
+    @if (Model.Trucks.Count > 0)
+    {
+        <div class="display-label"><b>Грузовики</b></div>
+        <ul>
+            @foreach (Truck t in Model.Trucks)
+            {
+                <li>@t.Brand.Name @t.Color.Name</li>
+            }
+        </ul>
+    }
+
+    @if (Model.Trailers.Count > 0)
+    {
+        <div class="display-label"><b>Прицепы</b></div>
+        <ul>
+            @foreach (Trailer t in Model.Trailers)
+            {
+                <li>@t.LicensePlate @t.Color.Name @t.Carrying</li>
+            }
+        </ul>
+    }
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Редактировать</a> |
+    <a asp-action="Index">Назад</a>
+</div>

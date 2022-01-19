@@ -1,0 +1,96 @@
+﻿@model CarRental.Models.TruckViewModel
+
+@{
+    ViewData["Title"] = "Редактирование";
+}
+
+<h1>Редактирование</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="BrandId" class="control-label"></label>
+                <select asp-for="BrandId" class="form-control" asp-items="ViewBag.BrandId"></select>
+                <span asp-validation-for="BrandId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mileage" class="control-label"></label>
+                <input asp-for="Mileage" class="form-control" />
+                <span asp-validation-for="Mileage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FuelTankCapacity" class="control-label"></label>
+                <input asp-for="FuelTankCapacity" class="form-control" />
+                <span asp-validation-for="FuelTankCapacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ColorId" class="control-label"></label>
+                <select asp-for="ColorId" class="form-control" asp-items="ViewBag.ColorId"></select>
+                <span asp-validation-for="ColorId" class="text-danger"></span>
+            </div>
+            <fieldset>
+                <legend>Кузов</legend>
+                <div class="form-group">
+                    <label asp-for="CarBodyNum" class="control-label"></label>
+                    <input asp-for="CarBodyNum" class="form-control" />
+                    <span asp-validation-for="CarBodyNum" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Lenght" class="control-label"></label>
+                    <input asp-for="Lenght" class="form-control" />
+                    <span asp-validation-for="Lenght" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Width" class="control-label"></label>
+                    <input asp-for="Width" class="form-control" />
+                    <span asp-validation-for="Width" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Height" class="control-label"></label>
+                    <input asp-for="Height" class="form-control" />
+                    <span asp-validation-for="Height" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Base" class="control-label"></label>
+                    <input asp-for="Base" class="form-control" />
+                    <span asp-validation-for="Base" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SeatsCount" class="control-label"></label>
+                    <input asp-for="SeatsCount" class="form-control" />
+                    <span asp-validation-for="SeatsCount" class="text-danger"></span>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Двигатель</legend>
+                <div class="form-group">
+                    <label asp-for="EngineSpecificationsId" class="control-label"></label>
+                    <select asp-for="EngineSpecificationsId" class="form-control" asp-items="ViewBag.EngineId"></select>
+                    <span asp-validation-for="EngineSpecificationsId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="VIN" class="control-label"></label>
+                    <input asp-for="VIN" class="form-control" />
+                    <span asp-validation-for="VIN" class="text-danger"></span>
+                </div>
+            </fieldset>
+            <div class="form-group">
+                <input type="submit" value="Сохранить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

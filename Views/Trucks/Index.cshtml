@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CarRental.Models.Truck>
+
+@{
+    ViewData["Title"] = "Список грузовиков";
+}
+
+<h1>Список грузовиков</h1>
+
+<p>
+    <a asp-action="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BrandId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ColorId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mileage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FuelTankCapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarBody.CarBodyNum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Engine.VIN)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mileage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FuelTankCapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarBody.CarBodyNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Engine.VIN)
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Подробнее</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
